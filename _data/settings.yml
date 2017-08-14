@@ -1,26 +1,26 @@
-title:  Lagrange
-tagline:  a minimalist Jekyll theme
+title:  bayupr
+tagline:  sebuah blog pribadi
 author:
-  name: 'Paul Le'
-  twitter:  paululele
+  name: 'Bayu Prastianto'
+  twitter:  bayupee
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  comments: true
+  disqus_shortname: 'bayupee'
 
-google-ID: 'UA-80213386-1'
+google-ID: 'UA-103101784-2'
 
 menu:
-- {name: 'About', url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Tentang', url: 'about.html'}
+- {name: 'Tulisan', url: 'writing.html'}
+- {name: 'Kontak', url: 'contact.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
-
+#- {icon: 'github', link: 'https://www.github.com/lenpaul'}
+- {icon: 'twitter', link: 'https://twitter.com/bayupee'}
+- {icon: 'instagram', link: 'https://instagram.com/bayupee'}
+#- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
+- {icon: 'envelope', link: 'mailto:bayu.prastianto@outlook.com'}
+- {icon: 'telegram', link: 'https://t.me/bayupee'}
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
