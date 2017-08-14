@@ -3,6 +3,4 @@ layout: page
 title: Contact
 ---
 
-Hubungi saya di 
-[:fa-telegram Telegram] (t.me/bayupee)
-
+Apabila ada pertanyaan silahkan hubungi saya di [Telegram](t.me/bayupee)
