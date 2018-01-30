@@ -1,5 +1,5 @@
 title:  Bayu Prastianto
-tagline: learn to code 
+# tagline:  
 author:
   name: 'Bayu Prastianto'
   twitter:  bayupee
@@ -12,9 +12,9 @@ disqus:
 google-ID: 'UA-103101784-2'
 
 menu:
-- {name: 'Tentang', url: 'tentang.html'}
-- {name: 'Tulisan', url: 'tulisan.html'}
-- {name: 'Kontak', url: 'kontak.html'}
+- {name: 'Tentang', url: 'about.html'}
+- {name: 'Tulisan', url: 'writing.html'}
+- {name: 'Kontak', url: 'contact.html'}
 
 social:
 #- {icon: 'github', link: 'https://www.github.com/lenpaul'}
