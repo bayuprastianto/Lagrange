@@ -14,5 +14,6 @@ Setelah melalui beberapa pertimbangan pilihan jatuh ke Sandisk SSD Plus 240GB (S
 
 Setelah paketan SSD dan Enclosure datang, langsung ganti harddisk dengan SSD dan clean install OS Windows 10 Pro 64bit. Proses instalasi terasa cukup cepat apabila dibandingkan ketika menggunakan harddisk. Tidak sampai 40 menit proses instalasi dan pasang driver melalui Windows Update sudah selesai.
 
-Berikut ini tangkapan layar hasil benchmark menggunakan CrystalDiskMark
-->![Hasil benchmark menggunakan CrystalDiskMark](http://bayuprastianto.cf/assets/img/benchmarkssd.jpg "Benchmark")<-
+Berikut ini tangkapan layar hasil benchmark SSD Sandisk Plus 240 GB menggunakan CrystalDiskMark
+
+![Hasil benchmark menggunakan CrystalDiskMark](http://bayuprastianto.cf/assets/img/benchmarkssd.jpg "Benchmark")
